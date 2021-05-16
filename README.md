@@ -21,3 +21,8 @@ Navlink text: The visible titles of navigation links on the homepage (Ex: Home, 
 Meta keywords: The meta keywords in the header of the page html for SEO
 
 Meta description: The meta description in the header of the page html for SEO
+
+We used Kmeans clusternig on the sparse matrix that we got after TF-IDF vectorization to create word clouds that can tell which company it belongs to as an example we have our Healthcare sector as:
+
+![6](https://user-images.githubusercontent.com/75989898/118387620-ffc00780-b63c-11eb-884f-534657116ced.PNG)
+
